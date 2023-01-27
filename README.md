@@ -14,7 +14,7 @@ vi .env
 ```
 SLACK_BOT_TOKEN=`Slack app Bot User OAuth Token pasted.`  
 SLACK_SIGNING_SECRET=`Slack app Credentials Signing Secret pasted.`  
-OPENAI_API_KEY=[OpenAO API keys pasted.](https://beta.openai.com/account/api-keys)  
+OPENAI_API_KEY=[OpenAI API keys pasted.](https://beta.openai.com/account/api-keys)  
 
 ```bash
 yarn deploy
